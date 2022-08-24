@@ -1,4 +1,4 @@
-Steps to complete the assignment:
+Steps taken to complete this task:
 
 1. Created a metamask account and added test rinkeby wallet
 2. Created a infura account
